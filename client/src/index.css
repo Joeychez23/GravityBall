@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bar.splitting {
+  background-color: #00afff !important;
+}
+
+html {
+  overflow: hidden; 
+}
+
+.bar.merging {
+  background-color: gold !important;
+}
+
+.bar.sorted {
+  background-color: limegreen !important;
+}
